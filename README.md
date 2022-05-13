@@ -1,5 +1,5 @@
 ### Hi there 👋 - ![](https://komarev.com/ghpvc/?username=GerryYuu&style=flat-square&label=Visitors)
-I'm a 14 years old middle school student from China.<br>
+I'm a 14 years old junior high school student from China.<br>
 我是一名来自 中华人民共和国 的 14 岁初中生.<br>
 
 I'm currently learning Java by myself.<br>
