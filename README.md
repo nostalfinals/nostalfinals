@@ -8,7 +8,7 @@ I'm currently learning Java by myself.<br>
 My Discord: gerry.#5126<br>
 我的 Discord: gerry.#5126<br>
 
-Currently working for my Minecraft SMP server project: [TheOthers 亦者](https://github.com/TheOthers-SMP-Project)<br>
+Currently working on my Minecraft SMP server project: [TheOthers 亦者](https://github.com/TheOthers-SMP-Project)<br>
 正在忙于我的 Minecraft 多人生存服务器: [TheOthers 亦者](https://github.com/TheOthers-SMP-Project)<br>
 
 You can call me Gerry in English.<br>
