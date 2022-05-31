@@ -5,4 +5,3 @@
 :telephone_receiver: If you want to contact me, add my discord: gerry.#5126
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GerryYuu&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerryYuu)](https://github.com/anuraghazra/github-readme-stats)
