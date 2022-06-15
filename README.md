@@ -1,7 +1,10 @@
-### Hi there 👋
-:sparkles: Hello! I'm Gerry. *(It's a pen name)*<br>
-:cn: I'm from China.<br>
-:memo: I often code programs that I think what is interesting. And most of them is about [Minecraft](https://www.minecraft.net/).<br>
-:telephone_receiver: If you want to contact me, add me on Discord: yuu.#5126
+## GerryYuu
+![Avatar](https://github.com/GerryYuu/GerryYuu/blob/main/avatar.jpg)<br>
+14-year-old Chinese junior high school student.<br>
 
-![GerryYuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=GerryYuu&show_icons=true)
+:cn: **Country** China.<br>
+:heart: **Hobbies** Coding, desgining, reading.<br>
+:speech_balloon: **Languages** Chinese(Native speak), English.<br>
+:coffee: **Programming Languages** Java (Mainly use), Kotlin, Python, JavaScript.<br>
+ \
+![Status](https://github-readme-stats.vercel.app/api?username=GerryYuu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
