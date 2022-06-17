@@ -3,7 +3,7 @@
 14-year-old Chinese junior high school student.<br>
 
 :cn: **Country** China.<br>
-:heart: **Hobbies** Coding, desgining, reading.<br>
+:heart: **Hobbies** Coding, desgining, photographing.<br>
 :speech_balloon: **Languages** Chinese (Native speak), English.<br>
 :coffee: **Programming Languages** Java (Mainly use), Kotlin, Python, JavaScript.<br>
  \
