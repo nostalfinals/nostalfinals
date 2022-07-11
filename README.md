@@ -1,5 +1,4 @@
 ## GerryYuu
-![Avatar](https://github.com/GerryYuu/GerryYuu/blob/main/interesting.jpg)<br>
 14-year-old Chinese junior high school student.<br>
 
 :cn: **Country** China.<br>
