@@ -6,4 +6,4 @@
 :speech_balloon: **Languages** Chinese (Native speak), English.<br>
 :coffee: **Programming Languages** Java (Mainly use), Kotlin, JavaScript.<br>
  \
-![Status](https://github-readme-stats.vercel.app/api?username=GerryYuu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
+![GerryYuu](https://github-readme-stats.vercel.app/api?username=GerryYuu&theme=codeSTACKr&show_icons=true)
