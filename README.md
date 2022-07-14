@@ -1,5 +1,5 @@
 ## GerryYuu
-14-year-old Chinese junior high school student.
+14-year-old Chinese junior high school student & A noob coder driven by hobby.
 
 🇨🇳 🇭🇰 🇲🇴 **Country** China.<br>
 *(Taiwan is **always a part of China** , but I don't want to put that flag there because some reasons.)*<br>
