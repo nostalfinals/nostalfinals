@@ -2,7 +2,7 @@
 14-year-old Chinese junior high school student & A noob coder driven by hobby.
 
 🇨🇳 🇭🇰 🇲🇴 **Country** China.<br>
-*(Taiwan is **always a part of China** , but I don't want to put that flag there because some reasons.)*<br>
+*(Taiwan is **always a part of China** , but I don't want to put that flag there because of some reasons.)*<br>
 :heart: **Hobbies** Coding, desgining, photographing.<br>
 :speech_balloon: **Languages** Chinese (Native speak), English.<br>
 :coffee: **Computer Languages** Java (Mainly use), Kotlin, JavaScript.<br>
