@@ -8,4 +8,5 @@
 :coffee: **Computer Languages** Java (Mainly use), Kotlin, JavaScript.<br>
 :phone: **Contact Method** Add me on Discord: yuu.#5126
  
-![GerryYuu](https://github-readme-stats.vercel.app/api?username=GerryYuu&theme=codeSTACKr&show_icons=true)
+![GerryYuu](https://github-readme-stats.vercel.app/api?username=GerryYuu&theme=codeSTACKr&show_icons=true)\
+![Discord](https://discord.c99.nl/widget/theme-1/620115565545259008.png)
