@@ -2,9 +2,9 @@
 <h3>
 
 ```Kotlin
-var name = "GerryYuu"
-var age = 14
-var languages = listOf("Java", "Kotlin")
+val name = "GerryYuu"
+val age = 14
+val languages = listOf("Java", "Kotlin")
 ```
 
 </h3>
