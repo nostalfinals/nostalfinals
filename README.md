@@ -1,10 +1,6 @@
 # GerryYuu
-### About me
-I'm a 14-years-old hobbyist coder from 🇨🇳 China.
-
-### Programming Language
-☕ Java.
-
-### Contact
-**Discord** Yuu8583#5126\
-**Tencent QQ** 545847685
+```Kotlin
+var name = "GerryYuu"
+var age = 14
+var languages = listOf("Java", "Kotlin")
+```
