@@ -4,7 +4,7 @@
 ```Kotlin
 val name = "GerryYuu"
 val age = 14
-val languages = listOf("Java", "Kotlin")
+val languages = mutableListOf("Java", "Kotlin")
 ```
 
 </h3>
