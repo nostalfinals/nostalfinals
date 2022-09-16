@@ -10,4 +10,4 @@ val languages = mutableListOf("Java", "Kotlin")
 
 </h3>
 
-漫天繁星，是否有你想要成为的那一颗？
+我们，最高处见。
