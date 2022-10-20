@@ -13,7 +13,7 @@ I'm also interested in making videos!
 
 ### 📝 Fantastic projects I'm working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KeYiMC&repo=KeYi)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KeYiMC&repo=KeYi)](https://github.com/KeYiMC/KeYi)
 
 ### 🛠️ Technologies I use
 
@@ -82,5 +82,3 @@ I'm also interested in making videos!
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-[![nostal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nostalgic853)](https://github.com/anuraghazra/github-readme-stats)
