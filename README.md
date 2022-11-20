@@ -1,6 +1,6 @@
 # ✨nostalgic853
 
-### 👋 Welcome to my profile page! 
+### 👋 Welcome to my profile page! I'm a hobbyist coder. :)
 
 ![Discord](https://dcbadge.vercel.app/api/shield/620115565545259008?style=flat-square)
 [![Blibili Followers](https://bilistats.lonelyion.com/followers?uid=238111550)](https://space.bilibili.com/238111550)
