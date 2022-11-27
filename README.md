@@ -13,4 +13,5 @@ I'm also interested in making videos!
 
 ### 📝 Fantastic projects I'm working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KeYiMC&repo=KeYi)](https://github.com/KeYiMC/KeYi)
+[![KeYi](https://github-readme-stats.vercel.app/api/pin/?username=KeYiMC&repo=KeYi)](https://github.com/KeYiMC/KeYi)
+[![datakoa](https://github-readme-stats.vercel.app/api/pin/?username=PlutoMC-NEXT&repo=datakoa)](https://github.com/PlutoMC-NEXT/datakoa)
