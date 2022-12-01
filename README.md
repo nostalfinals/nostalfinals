@@ -14,4 +14,6 @@ I'm also interested in making videos!
 ### 📝 Fantastic projects I'm working on
 
 [![KeYi](https://github-readme-stats.vercel.app/api/pin/?username=KeYiMC&repo=KeYi)](https://github.com/KeYiMC/KeYi)
-[![datakoa](https://github-readme-stats.vercel.app/api/pin/?username=PlutoMC-NEXT&repo=datakoa)](https://github.com/PlutoMC-NEXT/datakoa)
+[![server-software-introduction](https://github-readme-stats.vercel.app/api/pin/?username=nostalgic853&repo=server-software-introduction)](https://github.com/nostalgic853/server-software-introduction)
+[![datakoa](https://github-readme-stats.vercel.app/api/pin/?username=hamokumo&repo=datakoa)](https://github.com/hamokumo/datakoa)
+[![nova](https://github-readme-stats.vercel.app/api/pin/?username=hamokumo&repo=nova)](https://github.com/hamokumo/nova)
