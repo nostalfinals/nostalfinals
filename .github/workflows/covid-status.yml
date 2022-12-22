@@ -1,0 +1,17 @@
+name: Update COVID-19 Gists
+
+on:
+  schedule:
+    - cron: '* * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+      - uses: puf17640/covid-box@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GH_PAT: ${{ secrets.TOKEN }}
+          COUNTRY: CN
+          GIST_ID: 02b2d0ce861cdf8cba0b0507ea29f755
