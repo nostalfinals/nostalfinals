@@ -1,8 +1,9 @@
 name: Update COVID-19 Gists
 
 on:
-  schedule:
-    - cron: '* * * * *'
+  push:
+    branches:
+      - main
 
 jobs:
   build:
