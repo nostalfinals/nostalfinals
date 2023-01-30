@@ -11,5 +11,5 @@ I'm also interested in making videos!
 
 ### 📝 Fantastic projects I'm working on
 
-[![KeYi](https://github-readme-stats.vercel.app/api/pin/?username=nostalgic853&repo=hikari)](https://github.com/KeYiMC/KeYi)
+[![KeYi](https://github-readme-stats.vercel.app/api/pin/?username=nostalgic853&repo=hikari)](https://github.com/nostalgic853/hikari)
 [![server-software-introduction](https://github-readme-stats.vercel.app/api/pin/?username=nostalgic853&repo=server-software-introduction)](https://github.com/nostalgic853/server-software-introduction)
