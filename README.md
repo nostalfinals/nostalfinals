@@ -10,11 +10,11 @@
 
 ### 📱 Contact me
 
-[![Tencent QQ](https://img.shields.io/badge/Tencent%23QQ-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/YsKnT7eRW2)
-![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+- **QQ** 545847685
+- **WeChat** nostalgic853
+- **Discord** nostalfinals
 
-*(It's clickable)*
+*Please explain your intention when you DM or send a friend request, or I will not reply to you.*
 
 ### 🛠️ Technologies I use
 
