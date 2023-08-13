@@ -18,7 +18,7 @@
 
 *I don't commission any commercial projects or sell my work, don't contact me for these reasons.*
 
-*You are free to use all of my open-sourced projects as you obey my license.*
+*You're free to use all of my open-sourced projects once you obey my license.*
 
 ### 🛠️ Technologies I use
 
