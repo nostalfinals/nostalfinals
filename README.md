@@ -15,7 +15,9 @@
 - **Discord** nostalfinals
 
 *Please explain your intention when you DM or send a friend request, or I will not reply to you.*
+
 *I don't commission any commercial projects or sell my work, don't contact me for these reasons.*
+
 *You are free to use all of my open-sourced projects as you obey my license.*
 
 ### 🛠️ Technologies I use
