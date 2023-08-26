@@ -4,6 +4,9 @@
 
 ![nostalfinals's Profile](https://github-readme-stats.vercel.app/api?username=nostalfinals&show_icons=true&theme=radical)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## ℹ️ About me
 - 👦 He/Him.
 - 🏫 I'm currently a freshman in high school.
