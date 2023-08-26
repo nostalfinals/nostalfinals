@@ -5,6 +5,11 @@
 ![nostalfinals's Profile](https://github-readme-stats.vercel.app/api?username=nostalfinals&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## ℹ️ About me
