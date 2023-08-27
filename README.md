@@ -21,8 +21,6 @@ Kotlin   19 mins         ██████████████████�
 ```
 <!--END_SECTION:waka-->
 
-
-
 ## ℹ️ About me
 - 👦 He/Him.
 - 🏫 I'm currently a freshman in high school.
