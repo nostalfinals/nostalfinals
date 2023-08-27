@@ -2,14 +2,8 @@
 
 👋 Welcome to my profile page! I'm a hobbyist coder! 😄
 
-<div style="display: flex; justify-content: space-between;">
-    <span>
-        <img src="https://github-readme-stats.vercel.app/api?username=nostalfinals&hide_border=true&show_icons=true&theme=radical">
-    </span>
-    <span>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostalfinals&hide_border=true&show_icons=true&theme=radical&card_width=445">
-    </span>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostalfinals&hide_border=true&show_icons=true&theme=radical&card_width=500">
+<img src="https://github-readme-stats.vercel.app/api?username=nostalfinals&hide_border=true&show_icons=true&theme=radical&card_width=500">
 
 <!--
 ![nostalfinals's Profile](https://github-readme-stats.vercel.app/api?username=nostalfinals&show_icons=true&theme=radical)
