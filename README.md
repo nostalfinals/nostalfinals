@@ -2,15 +2,17 @@
 
 👋 Welcome to my profile page! I'm a hobbyist coder! 😄
 
+<div style="display: flex; justify-content: space-between;">
+    <span><img src="https://github-readme-stats.vercel.app/api?username=nostalfinals&show_icons=true&theme=radical" alt="nostalfinals's Profile"></span>
+    <span>
+      <!--START_SECTION:waka-->
+      <!--END_SECTION:waka-->
+    </span>
+</div>
+
+<!--
 ![nostalfinals's Profile](https://github-readme-stats.vercel.app/api?username=nostalfinals&show_icons=true&theme=radical)
-
-<!--START_SECTION:waka-->
-
-```txt
-Kotlin   19 mins         █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
+-->
 
 ## ℹ️ About me
 - 👦 He/Him.
