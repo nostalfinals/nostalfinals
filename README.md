@@ -4,17 +4,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostalfinals&hide_border=true&show_icons=true&theme=radical&card_width=500">
 <img src="https://github-readme-stats.vercel.app/api?username=nostalfinals&hide_border=true&show_icons=true&theme=radical&card_width=500">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nostalfinals">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nostalfinals&card_width=500">
 
 <!--
 ![nostalfinals's Profile](https://github-readme-stats.vercel.app/api?username=nostalfinals&show_icons=true&theme=radical)
 -->
-
-<!--START_SECTION:waka-->
-```txt
-Kotlin   19 mins         █████████████████████████   100.00 %
-```
-<!--END_SECTION:waka-->
 
 ## ℹ️ About me
 - 👦 He/Him.
