@@ -22,6 +22,10 @@
 - **WeChat** nostalgic853
 - **Discord** nostalfinals
 
+### 🤔 Genshin Impact card because I play
+
+[![nostalfinals's Genshin information](https://ys.himiku.com/18,%2028,%2036/350412656.png)](https://enka.network/u/252210372/)
+
 *Please explain your intention when you DM or send a friend request, or I will not reply to you.*
 
 *I don't commission any commercial projects or sell my work, don't contact me for these reasons.*
