@@ -1,6 +1,6 @@
 # ✨ Nostal Yuu
 
-👋 Welcome to my profile page! I'm a hobbyist coder! 😄
+👋 Welcome to my profile page! I'm a amateur coder! 😄
 
 <img src="https://github-readme-stats.vercel.app/api?username=nostalfinals&hide_border=true&show_icons=true&theme=radical&card_width=495">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostalfinals&hide_border=true&show_icons=true&theme=radical&card_width=495">
@@ -26,8 +26,10 @@
 
 [![nostalfinals's Genshin information](https://ys.himiku.com/18,%2028,%2036/350412656.png)](https://enka.network/u/252210372/)
 
+<!--
 *Please explain your intention when you DM or send a friend request, or I will not reply to you.*
 
 *I don't commission any commercial projects or sell my work, don't contact me for these reasons.*
 
 *You're free to use all of my open-sourced projects once you obey my license.*
+-->
