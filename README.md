@@ -1,6 +1,6 @@
 # ✨ Nostal Yuu
 
-👋 Welcome to my profile page! I'm a amateur coder! 😄
+👋 Welcome to my profile page! I'm an amateur coder! 😄
 
 <img src="https://github-readme-stats.vercel.app/api?username=nostalfinals&hide_border=true&show_icons=true&theme=radical&card_width=495">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostalfinals&hide_border=true&show_icons=true&theme=radical&card_width=495">
