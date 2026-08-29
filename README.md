@@ -17,3 +17,5 @@ Find me at:
 - **Tencent QQ:** 545847685
 - **Bilibili / 哔哩哔哩:** [nostalfinals](https://space.bilibili.com/238111550)
 - **X / Twitter:** [@nostalfinals](https://x.com/nostalfinals)
+
+> *To the end of all things. // 行至万物的终焉。*
