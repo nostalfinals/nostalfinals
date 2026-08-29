@@ -5,6 +5,7 @@ I'm:
 - a high school student preparing for China's National College Entrance Examination (aka Gaokao).
 - currently working on several Minecraft-related projects, mainly for my own Minecraft server, PlutoProject.
 - interested in server-side development, AI agents, and LLMs.
+- using Windows 11 as my daily desktop OS, Arch Linux on WSL for most of my development work, and Debian 13 on my home server.
 
 Technologies I've worked with or explored:
 
