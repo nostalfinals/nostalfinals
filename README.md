@@ -14,7 +14,6 @@ Technologies I've worked with or explored:
 
 Find me at:
 
-- **Blog:** [nostal.ink](https://nostal.ink/) (Under construction)
 - **X:** [@nostalfinals](https://x.com/nostalfinals)
 
 > *To the end of all things. // 行至万物的终焉。*
